@@ -23,3 +23,12 @@ Deixamos aqui nossos agradecimentos à **Vanessa Valle**, ao **Rafael Paiva** e 
 
 ---
 
+[Renato e Nizzola palestrando](img/dotnet9-04.jpg)
+
+[Renato e Nizzola palestrando](img/dotnet9-11.jpg)
+
+[Renato e Nizzola palestrando](img/dotnet9-13.jpg)
+
+[Renato e Nizzola palestrando](img/dotnet9-14.jpg)
+
+[Palestrantes e organizadores](img/dotnet9-18.jpg)
