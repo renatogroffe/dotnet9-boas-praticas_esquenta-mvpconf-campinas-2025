@@ -19,6 +19,8 @@ Site do evento: **https://hubconnecteventos.com.br/evento/esquentamvpconfcampina
 
 Local: **Fatec Campinas - Avenida Cônego Antônio Rocato, 593 - Chácaras Campos dos Amarais - Campinas-SP - CEP: 13082-015**
 
+Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
+
 Esta palestra foi realizada em conjunto com meu amigo **Márcio Nizzola (Microsoft MVP)**.
 
 Deixamos aqui nossos agradecimentos à **Vanessa Valle**, ao **Rafael Paiva** e demais MVPs envolvidos com o evento por todo o apoio para que partipássemos como palestrantes.
