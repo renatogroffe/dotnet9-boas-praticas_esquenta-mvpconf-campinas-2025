@@ -3,6 +3,8 @@ Conteúdos de apresentação sobre boas práticas com .NET 9 de apresentação r
 
 ---
 
+## Informações sobre o evento
+
 Título da apresentação: **Desenvolvimento em .NET 9 - Boas práticas para escrever um código atualizado**
 
 Data: **31/05/2025 (sábado)**
