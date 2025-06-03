@@ -9,7 +9,7 @@ Data: **07/12/2024 (sábado)**
 
 Tecnologias e tópicos abordados: **.NET, ASP.NET Core, C#, Azure DevOps, GitHub Actions, Visual Studio 2022, Visual Studio Code, Containers, Twelve Factor App, Microservices, DevSecOps, Docker, Docker Compose, Kubernetes, JWT, OWASP, APIsec Scanner...**
 
-Número de participantes: **40 pessoasx**
+Número de participantes: **40 pessoas**
 
 O Esquenta MVPConf é um evento presencial promovido pela comunidade de MVPs Microsoft no Brasil, acontecendo ao longo de 2025 em diversas cidades brasileiras.
 
