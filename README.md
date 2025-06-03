@@ -5,11 +5,17 @@ Conteúdos de apresentação sobre boas práticas com .NET 9 de apresentação r
 
 Título da apresentação: **Desenvolvimento em .NET 9 - Boas práticas para escrever um código atualizado**
 
-Data: **07/12/2024 (sábado)**
+Data: **31/05/2025 (sábado)**
 
 Tecnologias e tópicos abordados: **.NET, ASP.NET Core, C#, Azure DevOps, GitHub Actions, Visual Studio 2022, Visual Studio Code, Containers, Twelve Factor App, Microservices, DevSecOps, Docker, Docker Compose, Kubernetes, JWT, OWASP, APIsec Scanner...**
 
 Número de participantes: **40 pessoas**
 
-O Esquenta MVPConf é um evento presencial promovido pela comunidade de MVPs Microsoft no Brasil, acontecendo ao longo de 2025 em diversas cidades brasileiras.
+O Esquenta MVPConf é um evento presencial promovido pela comunidade de MVPs Microsoft no Brasil, acontecendo ao longo de 2025 em Campinas-SP e outras cidades brasileiras.
+
+Site do evento: **https://hubconnecteventos.com.br/evento/esquentamvpconfcampinas**
+
+Local: **Fatec Campinas - Avenida Cônego Antônio Rocato, 593 - Chácaras Campos dos Amarais - Campinas-SP - CEP: 13082-015**
+
+Deixo aqui meus agradecimentos à **Vanessa Valle**, ao **Rafael Paiva** e demais MVPs envolvidos com o evento por todo o apoio para que eu partipasse como palestrante.
 
